@@ -9,6 +9,6 @@
     echo "<label for='email'> Enter your email: </label> ";
     echo "<input type='email' name='name' id='email'>";
     echo "<input type='button' value='Submit'> ";
-     ?>
+    ?>
   </body>
 </html>
